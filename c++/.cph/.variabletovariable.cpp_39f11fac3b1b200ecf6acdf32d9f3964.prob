@@ -1,0 +1,1 @@
+{"name":"Local: variabletovariable","url":"d:\\coding\\c++\\variabletovariable.cpp","tests":[{"id":1663005637611,"input":"4 4\n1 2 10 4\n100 5 2 1\n1 1 20 2\n1 2 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\c++\\variabletovariable.cpp","group":"local","local":true}

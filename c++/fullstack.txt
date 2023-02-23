@@ -1,0 +1,36 @@
+html
+css
+javascript --- (functions ,protypes,higher order event delegations,closures)
+
+react and angular
+git and github
+
+
+
+backend --->
+php,python,ruby,java,web architecture,http and rest ,database storage
+basic design scales--> ui and ux,proto types, scalability
+npm,soft skills..
+
+
+......................................................................................
+
+internet fundementals...
+html and css and js ....
+chrome dev tools.........
+
+git and github...
+npm and yarn...
+js framework---> reactjs.. and react query...
+ui library-->material ui ,tailwindcss ,react query 
+
+testing..(cypress.io)
+
+linux fundementals...
+programming language....js...nodejs...
+database..
+(mongo db and mysql)
+web security..
+ci/cd..(github actions)
+caching..(redis)
+cloud services...
